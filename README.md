@@ -48,8 +48,6 @@ This is a simple Crypto Price Tracker built with Next.js. It fetches live crypto
 - Loading indicator while fetching data.
 - Mobile responsive design.
 - <img width="361" alt="image" src="https://github.com/user-attachments/assets/b1d2c3fa-0b0b-4e03-bf4a-79173126c6e0" />
-
-
 ## Contributing
 
 Feel free to fork the repository and submit a pull request!
