@@ -15,8 +15,8 @@ This is a simple Crypto Price Tracker built with Next.js. It fetches live crypto
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/your-username/crypto-price-tracker.git
-   cd crypto-price-tracker
+   git clone [https://github.com/sahrishA/crypto-price-tracker..git]
+   cd crypto-price-tracker./web-app
    ```
 2. **Install Dependencies:**
    ```sh
